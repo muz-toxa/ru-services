@@ -286,4 +286,7 @@
 - [GigaCode](https://gigacode.ru/) - AI-ассистент разработчика, который ускоряет создание ПО. Аналог GitHub Copilot от Sber. Есть плагины для: IntelliJ IDEA, VSCode.\
   \[🆓-free\] \[☁-Cloud]
 
+- [Default Uploader](https://defaultuploader.com/) - API для загрузки и трансформаций изображений и видео на лету. Аналог Cloudinary, Imgix, Sirv, Uploadcare и др.\
+  \[🆓-free trial\] \[☁-Cloud]
+
 **[⬆️ Back to Top](#разделы)**
