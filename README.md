@@ -319,9 +319,9 @@
 
 ---
 
-## License
+## Лицензия
 
-- Code (scripts, tooling, repository structure): MIT License (see LICENSE)
-- Catalog content (service entries, descriptions, docs): Creative Commons Attribution 4.0 International (CC BY 4.0) (see LICENSE-CONTENT)
+Контент каталога (описания сервисов, карточки, документация, файлы README и иные текстовые материалы) распространяется по лицензии Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/deed.ru
 
-Trademarks, product names, and logos are the property of their respective owners and are used for identification purposes only.
+Товарные знаки, наименования продуктов и логотипы, упомянутые в каталоге, являются собственностью соответствующих правообладателей и используются исключительно в информационных целях для идентификации сервисов.
