@@ -316,3 +316,12 @@
   \[🌤️-free option\] \[☁-Cloud]
 
 **[⬆️ Back to Top](#разделы)**
+
+---
+
+## License
+
+- Code (scripts, tooling, repository structure): MIT License (see LICENSE)
+- Catalog content (service entries, descriptions, docs): Creative Commons Attribution 4.0 International (CC BY 4.0) (see LICENSE-CONTENT)
+
+Trademarks, product names, and logos are the property of their respective owners and are used for identification purposes only.
