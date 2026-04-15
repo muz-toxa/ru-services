@@ -322,9 +322,6 @@
 - [DaData](https://dadata.ru/) — Сервис API для автозаполнения, исправления и дополнения данных ИП и Юр.Лиц (_Есть бесплатные тарифы._)\
   \[🌤️-free option\]
 
-- [Rupilot](https://rupilot.ru/) — Русская версия Github Copilot. Плагины для NeoVim, VSCode. (_Есть бесплатные тарифы._)\
-  \[🌤️-free option\]
-
 - [GigaCode](https://gigacode.ru/) - AI-ассистент разработчика, который ускоряет создание ПО. Аналог GitHub Copilot от Sber. Есть плагины для: IntelliJ IDEA, VSCode.\
   \[🆓-free\] \[☁-Cloud]
 
