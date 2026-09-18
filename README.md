@@ -375,6 +375,9 @@
 - [EaseIntro](https://github.com/AkrishConclave/EaseIntro) — Бесплатный API для создания мероприятий с контролем посещаемости по QR-кодам. Пример реализации можно посмотреть в чат-боте @EaseIntroBot, [страница](https://abdera.tech/ease-intro) обзора возможностей.\
   \[🆓-free\]
 
+- [Депешер](https://depesher.ru) — сервис технических уведомлений для разработчиков. Принимает сообщения по HTTP и доставляет их по Email, в Telegram, Telegram-группы, Пачку и Depesher Desktop.\
+  \[🌤️-free option\] \[☁-Cloud\]
+
 **[⬆️ Back to Top](#разделы)**
 
 ---
